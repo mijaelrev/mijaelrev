@@ -27,7 +27,7 @@
         <li>Modelado 3D.</li>
         <li>Animacion de personajes 3D.</li>
       </ul>
-      Para hacer lograr completar mis posibles juegos.
+      Para lograr completar mis posibles proyectos en Unity.
     </p>
   </div>
 </body>
