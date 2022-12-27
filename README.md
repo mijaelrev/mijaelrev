@@ -4,7 +4,7 @@
   </div>
   
   <div>
-    <p>Soy Mijael, bienvenido a mi perfil 🧐🍸<p>
+    <p>Soy Mijael, bienvenido a mi perfil 🧐🍸</p>
   </div>
   <div>
     
