@@ -7,7 +7,6 @@
     <p>Soy Mijael, bienvenido a mi perfil 🧐🍸</p>
   </div>
   <div>
-    
     <p>
       Hola, Actualmente solo uso Unity y me interesan mas los juegos 3D.<br>
       En Unity specialmente programo mas no suelo añadir como cosas como modelos 3D propios y solo en ciertas ocaciones pruebo uno que otro asset dentro de Unity.<br>
@@ -35,7 +34,6 @@
     </p>
     
   </div>
-  
 </body>
 
 <footer>(▀̿Ĺ̯▀̿ ̿)🍸</footer>
