@@ -9,7 +9,7 @@
   
   <div>
     <p>
-    ActualMente.<br>
+    Actualmente solo se de:<br>
       <ul>
       <li>Unity</li>
       <li>Programador</li>
